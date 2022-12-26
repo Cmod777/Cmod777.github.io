@@ -28,7 +28,7 @@ NIP-05 n2   AnonSatoshy@Cmod777.github.io  | verify on (nostr.guru) | added on i
 ```
 ## CONTACT:
 * [threema](http://threema.id/WM4B8D)
-* <session:>
+* session
 ```
 0537ae80daf3af3c0dd66aaa2b5237d969b3123174f74ba66ba44c9b7ff2948076
 ```
@@ -37,3 +37,14 @@ NIP-05 n2   AnonSatoshy@Cmod777.github.io  | verify on (nostr.guru) | added on i
 
 ## TIPS LN:
 ⚡️guy@getalby.com
+
+## BITCOIN PROJECTS
+
+| category | link |
+|:--------------|:-------------:|
+entertainment|[MONOPOLY](https://github.com/Cmod777/MONOPOLY-BITCOIN-EDITION)
+entertainment|[CITADEL GAME](https://github.com/Cmod777/CITADEL-GAME)
+translations|[COLLECTION OF PROJECTS](https://github.com/Cmod777/PROJECT-BITCOIN-DOCUMENT-TRANSLATION)
+tech|[BTC CAL](https://github.com/Cmod777/BITCOIN_CALENDAR)
+tech|[P2P SWAP](https://github.com/Cmod777/P2P_SWAP_ITALIA)
+
