@@ -24,7 +24,7 @@ NIP-19    npub1hqwum55ufvg7enc8n84amh353ujynmaxztrvu5smsucnyva0n5eqta848t  |  ve
 NIP-05    anonsatoshy@nostrplebs.com  | verify on (nostr.guru)
 ```
 ```
-NIP-05 n2   AnonSatoshy@Cmod777.hithub.io  | verify on (nostr.guru)
+NIP-05 n2   AnonSatoshy@Cmod777.github.io  | verify on (nostr.guru)
 ```
 ## CONTACT:
 * [threema](http://threema.id/WM4B8D)
