@@ -21,10 +21,10 @@ HEX       b81dcdd29c4b11eccf0799ebddde348f2449efa612c6ce521b87313233af9d32
 NIP-19    npub1hqwum55ufvg7enc8n84amh353ujynmaxztrvu5smsucnyva0n5eqta848t  |  verify on (nostr.directory)
 ```
 ```
-NIP-05    anonsatoshy@nostrplebs.com  | verify on (nostr.guru)
+NIP-05    anonsatoshy@nostrplebs.com  | verify on (nostr.guru) | added on astral.ninja
 ```
 ```
-NIP-05 n2   AnonSatoshy@Cmod777.github.io  | verify on (nostr.guru)
+NIP-05 n2   AnonSatoshy@Cmod777.github.io  | verify on (nostr.guru) | added on iris.to
 ```
 ## CONTACT:
 * [threema](http://threema.id/WM4B8D)
