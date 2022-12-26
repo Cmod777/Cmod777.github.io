@@ -1,5 +1,4 @@
-# AnonSatoshy
-Fiat Delenda Est | LNP/BP | “One of the greatest things that Satoshi did was disappear.”| INTJ | 🟨⬛| Toxic-BTCpriest | 
+# AnonSatoshy aka Guy Fawkes
 
 ## GPG
 ```
