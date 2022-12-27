@@ -38,6 +38,8 @@ NIP-05 n2   AnonSatoshy@Cmod777.github.io  | verify on (nostr.guru) | added on i
 ## TIPS LN:
 ⚡️guy@getalby.com
 
+[![Donate Bitcoin](https://img.shields.io/badge/donate-€5-orange.svg)](http://cmod777.github.io/donate-bitcoin/?amount=5&currency=EUR)
+
 ## BITCOIN PROJECTS
 
 | category | link |
