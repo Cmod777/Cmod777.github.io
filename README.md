@@ -1,4 +1,4 @@
-# AnonSatoshy aka Guy Fawkes
+# AnonSatoshy aka Guy Fawkes   [![Donate Bitcoin](https://img.shields.io/badge/donate_BITCOIN_onchain-€5-orange.svg)](http://cmod777.github.io/donate-bitcoin/?amount=10&currency=USD)
 
 ## GPG
 ```
@@ -37,8 +37,6 @@ NIP-05 n2   AnonSatoshy@Cmod777.github.io  | verify on (nostr.guru) | added on i
 
 ## TIPS LN:
 ⚡️guy@getalby.com
-
-[![Donate Bitcoin](https://img.shields.io/badge/donate-$10-orange.svg)](http://cmod777.github.io/donate-bitcoin/?amount=10&currency=USD)
 
 ## BITCOIN PROJECTS
 
