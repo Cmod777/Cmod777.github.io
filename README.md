@@ -1,4 +1,4 @@
-# AnonSatoshy aka Guy Fawkes   [![Donate Bitcoin Onchain](https://img.shields.io/badge/donate_BITCOIN_onchain-€5-orange.svg)](http://cmod777.github.io/donate-bitcoin/?amount=10&currency=USD)
+# AnonSatoshy aka Guy Fawkes   [![Donate Bitcoin Onchain](https://img.shields.io/badge/donate_BITCOIN_ONCHAIN-BTC-green.svg)](http://cmod777.github.io/donate-bitcoin/?amount=10&currency=USD)  [![Donate Bitcoin LN](https://img.shields.io/badge/donate_BITCOIN_LN-SAT-orange.svg)](https://legend.lnbits.com/lnurlp/61266)
 
 ## GPG
 ```
