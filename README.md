@@ -6,6 +6,11 @@
 ```
 > id keyserver: an0n1mu5@protonmail.com | [QUICK ACCESS QR CODE](https://github.com/Cmod777/Cmod777.github.io/tree/main/QUICK%20ACCESS%20QR) | [DOWNLOAD .ASC KEY](https://github.com/Cmod777/Cmod777.github.io/blob/main/QUICK%20ACCESS%20QR/GuyFawkes.asc)
 
+## PayNyms
+```
+PM8TJNoS5BY6doBrZxghVaTBHg5wAijxUTQmdDqdiJVgJ6SJKSsM75UZedD8ateFfBKig5CL6NEErFj3V9ZF7qgeQiZek2rYDygsXiNViDY93xJzrUu1
+```
+> Add on Samourai for collaborative tx. Preference 1sat/b
 
 ## SOCIAL:
 
