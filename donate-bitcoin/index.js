@@ -1,6 +1,6 @@
 // donate-bitcoin Copyright (GPL) 2016  Nathan Robinson
 
-var address = "bc1qgjk09ttu72n4l0jp38cr0l7lf00cp9ew6l96we"; // The bitcoin address to receive donations. Change to yours
+var address = "bc1q72kth6pamgm55fujf6765xsd6ehvpsvyyh3fpjrd4w27nttuumks50rry6"; // The bitcoin address to receive donations. Change to yours
 var popup = false; // Set to true if you want a popup to pay bitcoin
 var currencyCode = "EUR"; // Change to your default currency. Choose from https://blockchain.info/ticker?cors=true
 var qrcode = true; // Set to false to disable qrcode
