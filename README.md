@@ -4,7 +4,7 @@
 ```
 FF58 9B6A 2A7E 64FC 71F9 5FAC AE14 F675 C23F C048
 ```
-> id keyserver: an0n1mu5@protonmail.com | [QUICK ACCESS QR CODE](https://github.com/Cmod777/Cmod777.github.io/tree/main/QUICK%20ACCESS%20QR) | [DOWNLOAD .ASC KEY](https://github.com/Cmod777/Cmod777.github.io/blob/main/QUICK%20ACCESS%20QR/GuyFawkes.asc)
+> id keyserver: an0n1mu5@protonmail.com | [QUICK ACCESS QR CODE](https://github.com/Cmod777/Cmod777.github.io/blob/main/QUICK%20ACCESS%20QR/GUY_FAWKES_KEY.png) | [DOWNLOAD .ASC KEY](https://github.com/Cmod777/Cmod777.github.io/blob/main/QUICK%20ACCESS%20QR/GuyFawkes.asc)
 
 ## PayNyms bip47
 ```
